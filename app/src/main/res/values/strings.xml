@@ -1,0 +1,11 @@
+<resources>
+    <string name="poster">Poster</string>
+    <string name="new_post">Добавить новый</string>
+    <string name="menu_new">Создать новый</string>
+    <string name="menu_add">Добавить</string>
+    <string name="menu_refresh">Обновить</string>
+    <string name="menu_clear">Очистить</string>
+    <string name="empty_list">Пустой список</string>
+    <string name="title_post_hint">Заголовок</string>
+    <string name="text_post_hint">Текст сообщения</string>
+</resources>
